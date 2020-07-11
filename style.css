@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+}
+
+body {
+  background-color: rgb(27, 138, 230);
+}
+
+
+#Sc,#time{
+    font-size: 50px;
+    color:rgb(11, 11, 87);
+    background-color: rgb(192, 5, 167);
+}
+  .SW{
+    width: 550px;
+    height: 550px;
+    background-color: rgb(27, 138, 230);
+    box-shadow: 0px 0px 0px 10px rgb(168, 4, 100);
+    border: 10px solid rgb(63, 4, 4);
+    border-radius: 30px;
+  }
